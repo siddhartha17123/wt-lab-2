@@ -50,52 +50,52 @@ ul li{
 
 	<tr>
 		<td>29</td>
-		<td>Safal</td>
-		<td>Pokhara</td>
+		<td>Boomay</td>
+		<td>Lakeside</td>
 	</tr>
 
 	<tr>
 		<td>40</td>
-		<td>sid</td>
-		<td>kanchanpur</td>
+		<td>sidhartha</td>
+		<td>Rambazar</td>
 	</tr>
 
 	<tr>
 		<td>41</td>
 		<td>sujit</td>
-		<td>dolpa</td>
+		<td>lekhnath</td>
 	</tr>
 </table>
 
 <h1>Things you need to make tea shown using ordered list. </h1>
 	<ol>
-		<li>Tealeaves</li>
+		<li>Mintleaves</li>
 		<li>Sugar</li>
 		<li>Milk</li>
-		<li>Water</li>
+		<li>Juice</li>
 	</ol>
 
 <h2>Counting started from 10 instead of 1</h2>
 	<ol start="10">
-		<li>Tealeaves</li>
+		<li>Mintleaves</li>
 		<li>Sugar</li>
 		<li>Milk</li>
 	</ol>
 
 <h1>Things you need to make tea shown using un-ordered list. </h1>
 	<ul>
-		<li>Tealeaves</li>
+		<li>Mintleaves</li>
 		<li>Sugar</li>
 		<li>Milk</li>
-		<li>Water</li>
+		<li>Juice</li>
 	</ul>
 
 <h2>List style changed from circle to square</h2>
 	<ul class="square">
-		<li>Tealeaves</li>
+		<li>Mintleaves</li>
 		<li>Sugar</li>
 		<li>Milk</li>
-		<li>Water</li>
+		<li>Juice</li>
 	</ul>
 
 </body>
